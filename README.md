@@ -1,1 +1,1 @@
-# algoritimo_genetico
+O arquivo em python genetico.py possui o algoritmo genético que consiste em treinar o dinossauro do google chrome para jogar o jogo sozinho, baseado em algoritmos genéticos. O código foi escrito durante WorkShop do Grupo Turing da USP. 
